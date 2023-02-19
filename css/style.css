@@ -1,0 +1,17 @@
+body{
+	background-color: mistyrose;
+}
+.head1{
+	color: brown;
+}
+caption{
+	color: forestgreen;
+}
+table, th, tr{
+	text-align: center;
+	background-color: teal;
+	color: gold;
+}
+.head2{
+	color: darkred;
+}
